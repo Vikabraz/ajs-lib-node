@@ -1,0 +1,22 @@
+{
+  "name": "ajs-lib-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vikabraz/ajs-lib-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vikabraz/ajs-lib-node/issues"
+  },
+  "homepage": "https://github.com/Vikabraz/ajs-lib-node#readme",
+  "description": "",
+  "dependencies": {
+    "@vikabraz/ajs-lib": "^1.0.1"
+  }
+}
